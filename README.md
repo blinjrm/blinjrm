@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I recently completed the bootcamp in Machine Learning Engineering at Yotta Academy in Paris, where I conducted several projects on lead scoring and natural language processing.  
+I have previously worked for 6 years in management consulting. 
 
 **Contacts**  
 [![Linkedin Badge](https://img.shields.io/badge/-Jerome_Blin-3366CC?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blinjrm/)](https://www.linkedin.com/in/blinjrm/)   [![Gmail Badge](https://img.shields.io/badge/-blinjrm@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=blinjrm@gmail.com)
