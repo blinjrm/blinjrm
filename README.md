@@ -3,7 +3,7 @@
 
 **Contacts**  
 
-[![Gmail Badge](https://img.shields.io/badge/-blinjrm@gmail.com-purple?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=blinjrm@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/-blinjrm@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=blinjrm@gmail.com)  
 
 <!--
 **blinjrm/blinjrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
