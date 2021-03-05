@@ -2,8 +2,9 @@
 
 
 **Contacts**  
+[![Linkedin Badge](https://img.shields.io/badge/-Jerome_Blin-3366CC?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blinjrm/)](https://www.linkedin.com/in/blinjrm/)   [![Gmail Badge](https://img.shields.io/badge/-blinjrm@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=blinjrm@gmail.com)
 
-[![Gmail Badge](https://img.shields.io/badge/-blinjrm@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=blinjrm@gmail.com)  
+
 
 <!--
 **blinjrm/blinjrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
