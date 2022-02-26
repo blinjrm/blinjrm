@@ -1,8 +1,13 @@
-### Hi there 👋
-I recently completed the bootcamp in Machine Learning Engineering at Yotta Academy in Paris, where I conducted several projects on lead scoring and natural language processing.  
-I have previously worked for 6 years in management consulting. 
+# Hi there 👋
+I am a full-stack machine learning engineer working at Grover.
 
-**Get in touch**  
+I have previously been working for 6 years in management consulting, focusing on digital transformation, and transitioned to data science and machine learning following a coding bootcamp.
+
+- 🚀 I’m currently working on improving model serving and transitioning to real-time inference
+- 🌱 I’m currently learning Rust & Kafka
+- 💬 Ask me about how businesses can deploy and scale ML models and maximize business value creation
+
+## Get in touch 
 [![Linkedin Badge](https://img.shields.io/badge/-Jerome_Blin-3366CC?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blinjrm/)](https://www.linkedin.com/in/blinjrm/)
 
 
